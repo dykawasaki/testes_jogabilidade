@@ -1,4 +1,4 @@
-![](https://github.com/dykawasaki/Tecnicas_Ferramentas/blob/main/git_capa_testes_jogabilidade.png)
+![](https://github.com/dykawasaki/testes_jogabilidade/blob/main/git_capa_testes_jogabilidade.png)
  
 # Importancia dos Testes de Jogabilidade
  
